@@ -23,3 +23,6 @@ The Expense Manager App is a robust and user-friendly application designed to he
 - Dart: The app's logic and functionalities are implemented in Dart, the programming language optimized for building fast and scalable mobile applications.
 - State Management: Utilized Flutter's state management techniques for efficient and reactive UI updates.
 - Charting Library: Integrated with a charting library for dynamic visual representation of expenses.
+
+## Screenshots
+![Home Page containing Chart view and List View of Expenses](C:\Users\Amit Soni\Downloads\WhatsApp Unknown 2024-08-28 at 02.10.35)
