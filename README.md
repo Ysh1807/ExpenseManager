@@ -25,4 +25,5 @@ The Expense Manager App is a robust and user-friendly application designed to he
 - Charting Library: Integrated with a charting library for dynamic visual representation of expenses.
 
 ## Screenshots
-![Home Page containing Chart view and List View of Expenses](C:\Users\Amit Soni\Downloads\WhatsApp Unknown 2024-08-28 at 02.10.35)
+
+![Home Page](https://github.com/user-attachments/assets/d77e353f-5c14-4fbc-9e9c-64efb5652475)
