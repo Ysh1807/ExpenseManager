@@ -26,7 +26,7 @@ The Expense Manager App is a robust and user-friendly application designed to he
 
 ## Screenshots
 ### Home Page containing Chart view and List View of expenses
-!(https://github.com/user-attachments/assets/d77e353f-5c14-4fbc-9e9c-64efb5652475)
+![](https://github.com/user-attachments/assets/d77e353f-5c14-4fbc-9e9c-64efb5652475)
 ### Page to add new expenses
 !(https://github.com/user-attachments/assets/2ed8a476-df56-42f2-9dfa-6a23b32d0380)
 ### Home Page containing Chart view and List View of expenses (Dark Mode)
