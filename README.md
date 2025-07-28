@@ -25,14 +25,18 @@ The Expense Manager App is a robust and user-friendly application designed to he
 - Charting Library: Integrated with a charting library for dynamic visual representation of expenses.
 
 ## Screenshots
-### Home Page containing Chart view and List View of expenses
-![](https://github.com/user-attachments/assets/d77e353f-5c14-4fbc-9e9c-64efb5652475)
-### Page to add new expenses
-![](https://github.com/user-attachments/assets/2ed8a476-df56-42f2-9dfa-6a23b32d0380)
-### Home Page containing Chart view and List View of expenses (Dark Mode)
-![](https://github.com/user-attachments/assets/293da4e1-9e37-4a89-bcd2-d8d5701d8dd8)
-### Page to add new expenses (Dark Mode)
-![](https://github.com/user-attachments/assets/e4047bd0-d252-4824-ba99-be305a31f66d)
+
+### Home Page containing Chart view and List View of expenses  
+<img src="https://github.com/user-attachments/assets/d77e353f-5c14-4fbc-9e9c-64efb5652475" width="170" height="400" />
+
+### Page to add new expenses  
+<img src="https://github.com/user-attachments/assets/2ed8a476-df56-42f2-9dfa-6a23b32d0380" width="170" height="400" />
+
+### Home Page containing Chart view and List View of expenses (Dark Mode)  
+<img src="https://github.com/user-attachments/assets/293da4e1-9e37-4a89-bcd2-d8d5701d8dd8" width="170" height="400" />
+
+### Page to add new expenses (Dark Mode)  
+<img src="https://github.com/user-attachments/assets/e4047bd0-d252-4824-ba99-be305a31f66d" width="170" height="400" />
 
 
 
